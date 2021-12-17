@@ -22,3 +22,7 @@ Also, We can check, chatting time of whats app group or chatting time between 2 
 
 ![image](https://user-images.githubusercontent.com/75954349/146617341-77998a5f-e45c-48ce-84a4-1bc751d6c609.png)
 
+In blow Bar graph, We can check, in which month or on which day, user do more chat.
+
+![image](https://user-images.githubusercontent.com/75954349/146617734-91309ba7-bdc7-4022-8863-03f72cda41d0.png)
+
